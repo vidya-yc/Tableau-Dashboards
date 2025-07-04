@@ -5,15 +5,15 @@ This project showcases an interactive HR Analytics Dashboard built using Excel f
 📊 Project Overview
 The dashboard is designed to empower HR teams and leadership to make data-driven decisions by visualizing:
 
-👥 Total Employees: 1,470
+👥 Total Employees
 
-❌ Attrition Count: 237
+❌ Attrition Count
 
-📉 Attrition Rate: 16.12%
+📉 Attrition Rate
 
-✅ Active Employees: 1,233
+✅ Active Employees
 
-📆 Average Employee Age: 37 years
+📆 Average Employee Age
 
 🔍 Key Interactive Visuals & Features
 🎯 KPI Cards – Quick snapshot of HR performance
